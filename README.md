@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a DevOps Engineer
+- 🔭 I’m a DevOps Practioner
 - 🌱 I’m currently learning Kubernetes
 - 💬 Ask me about CICD, Linux, Prometheus
 
