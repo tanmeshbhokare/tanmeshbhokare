@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as DevOps Engineer
+- 🔭 I’m a DevOps Engineer
 - 🌱 I’m currently learning Kubernetes
 - 💬 Ask me about CICD, Linux, Prometheus
+
+
+
+
+![](https://komarev.com/ghpvc/?username=tanmeshbhokare)
