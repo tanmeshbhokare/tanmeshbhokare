@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a DevOps Practioner
-- 🌱 I’m currently learning Kubernetes
-- 💬 Ask me about CICD, Linux, Prometheus
+- 🔭 I build and automate high-availability deployments across on-premises and cloud platforms.
+- 🌱 I have a proven track record of streamlining processes and boosting efficiency.
+- 💬 My expertise lies in CI/CD tools like Jenkins and GitLab, containerization technologies like Docker and Kubernetes, and Infrastructure as Code solutions like Terraform and Ansible.
 
 
 
